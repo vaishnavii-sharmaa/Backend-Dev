@@ -1,0 +1,21 @@
+{
+  "name": "backend-dev",
+  "version": "1.0.0",
+  "description": "nodejs_tutorial",
+  "homepage": "https://github.com/vaishnavii-sharmaa/Backend-Dev.git#readme",
+  "bugs": {
+    "url": "https://github.com/vaishnavii-sharmaa/Backend-Dev.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnavii-sharmaa/Backend-Dev.git"
+  },
+  "license": "ISC",
+  "author": "vaishnavi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node index.js"
+  }
+}
